@@ -1,0 +1,708 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "24 Noe Zhordania St, Batumi, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6499878,
+                    "lng": 41.6393107
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.65131272989272,
+                        "lng": 41.64068002989271
+                    },
+                    "southwest": {
+                        "lat": 41.64861307010727,
+                        "lng": 41.63798037010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ravestag Crypto Exchange",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110499835037519401480\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShiQ2A2jPxhrB46XgjWZLjxqf72crEgq2kO_VVe4VdN-s-WeK91YEXeuwWBvlh1k1534ftWIMkE_PlA7-NfqLxAYJwRB8WINsfw941FvOEhvQO4l3yJWiwNzAMUfV599w7HfnMdzkmlaBPMnlgXkdHdnxhQInPl9PPkH_r0wP9FNukkt",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJv8C0XE2HZ0ARyZX5mnnPBCo",
+            "plus_code": {
+                "compound_code": "JJXQ+XP Batumi",
+                "global_code": "8HH3JJXQ+XP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJv8C0XE2HZ0ARyZX5mnnPBCo",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "27 Konstantine Gamsakhurdia St, Batumi, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6491962,
+                    "lng": 41.6393548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.65054397989272,
+                        "lng": 41.64069992989272
+                    },
+                    "southwest": {
+                        "lat": 41.64784432010728,
+                        "lng": 41.63800027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "CRYPTO SERVICE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6936,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104285579389906216468\">Akbar Golandamian</a>"
+                    ],
+                    "photo_reference": "AUacShgB8P-VJQXLl7_Fa4CyXxp6qfKsceIOFW7Yb77Hc5ulIbaJz1m5iQ49Bhsh6tLHUdwslkm9OY-IiFUqcf0bObADkgzYTqCqGK3ltp8ryGMj35ydVRYL_V_tJxUKIixEdqWmrnJuJEl5hifzoo-myRg2D91kHd9n7yTRlknUwgAy6k9S",
+                    "width": 9248
+                }
+            ],
+            "place_id": "ChIJK6r2AoqHZ0ARD2UJRQ4XXzw",
+            "plus_code": {
+                "compound_code": "JJXQ+MP Batumi",
+                "global_code": "8HH3JJXQ+MP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJK6r2AoqHZ0ARD2UJRQ4XXzw",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "88 Zurab Gorgiladze St, Batumi 6004, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6433203,
+                    "lng": 41.6199163
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.64460592989272,
+                        "lng": 41.62130237989273
+                    },
+                    "southwest": {
+                        "lat": 41.64190627010728,
+                        "lng": 41.61860272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "TETChange Batumi - crypto exchange service",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100682911675934943001\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShii5XD19HJ0AtDat29aZNli_menD4E-Ctd2F4ro8N5D9bNCgCF4DzrwVQ56Ir-ZSd4PfsULSgA54F7-fRNRhCG8zM7Y-xYTqBf-DN80vw0VvVY1jtIlkcDReTYzFU7ez4Rdaqs5b7FH43C1CFdNpgms3vCNnVq_Mmziw32W2dttNp_s",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJZ4K0XBKHZ0ARBj93-cusS-0",
+            "plus_code": {
+                "compound_code": "JJV9+8X Batumi",
+                "global_code": "8HH3JJV9+8X"
+            },
+            "rating": 4.3,
+            "reference": "ChIJZ4K0XBKHZ0ARBj93-cusS-0",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Николая, 12Б Бараташвили, Batumi, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.64994799999999,
+                    "lng": 41.63625469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.65136462989272,
+                        "lng": 41.63774927989272
+                    },
+                    "southwest": {
+                        "lat": 41.64866497010728,
+                        "lng": 41.63504962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Crypto Service Coinet",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100129366311607289617\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjj9ApyknEBtd5xFxvuXtWfZLj0GQBwNw-q0akkkN-ilQP9iAuyu6_G3fZCWdyLdBIqSeE241sTo3B0R7BvXOJafGeEZDkR0Q66gb0aB8-i7FtgiUrO-BbncK1lmWiH1gnMvKEE29XT9bXD3nf5lAsxE0VqGGBLzwgzzyayyQqfYB-c",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJbTOWWUqHZ0ARBEX3eOx0VkM",
+            "plus_code": {
+                "compound_code": "JJXP+XG Batumi",
+                "global_code": "8HH3JJXP+XG"
+            },
+            "rating": 5,
+            "reference": "ChIJbTOWWUqHZ0ARBEX3eOx0VkM",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9 Selim Khimshiashvili St, Batumi 6000, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6446688,
+                    "lng": 41.62829079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.64598537989272,
+                        "lng": 41.62955827989272
+                    },
+                    "southwest": {
+                        "lat": 41.64328572010728,
+                        "lng": 41.62685862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bytecoin Crypto Exchange",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104501574186681382747\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShiRiFbMtG4tUaW88bXGDQ9xJJyseamaaVtToxvWhu6Xz9PWYCAf743ziDrJoDJI5FqLTSxDfYoxxVFjPRNonNrsOPkJzXUEhcpSbK59pN_TEEN3z_63GYAdz3yvJEKS3wT6kpeYLpV2kqczLx3mJkTzpEyB_1hMWAvtQMHveFnQQeAx",
+                    "width": 1169
+                }
+            ],
+            "place_id": "ChIJGUS2INyHZ0ARhp0s2hbb-g0",
+            "plus_code": {
+                "compound_code": "JJVH+V8 Batumi",
+                "global_code": "8HH3JJVH+V8"
+            },
+            "rating": 4.9,
+            "reference": "ChIJGUS2INyHZ0ARhp0s2hbb-g0",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 136
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "N 9 Kimshiashvili str, Batumi 6010, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6389688,
+                    "lng": 41.6121309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.64025097989272,
+                        "lng": 41.61339102989272
+                    },
+                    "southwest": {
+                        "lat": 41.63755132010728,
+                        "lng": 41.61069137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Digital Currency - CRYPTO Exchange Service (Khimshiashvili Branch)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108280067584801149593\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShhzf0fl4Roy-67u4oZgGMvRrUuROn6pLrCK8UdA70c8r_-50SIytAYeXTj0DCf7mr2HGiGfl8TfUjX7kslD5GTduyGRcNPDbMFV8d83q_5dLIf8E2ryecPQ-BJRHAnLq9Cbh-vEGAmJ5JR6miei30U_kBh8o1i1YhYj12HoBt7Wxd8L",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJT_UAyFOHZ0ARYOwMDK5Rjyg",
+            "plus_code": {
+                "compound_code": "JJQ6+HV Batumi",
+                "global_code": "8HH3JJQ6+HV"
+            },
+            "rating": 5,
+            "reference": "ChIJT_UAyFOHZ0ARYOwMDK5Rjyg",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "66 Chavchavadze St, Batumi, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6432438,
+                    "lng": 41.6304215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.64448782989273,
+                        "lng": 41.63182457989272
+                    },
+                    "southwest": {
+                        "lat": 41.64178817010728,
+                        "lng": 41.62912492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Crypto Exchange Vegas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107344955020762190195\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjTATEebMkCw23bzETGV7Aw6dq22wGN7JnthY3D7RuL17Dq0Kcj6_YuHoW521lT-GptQDBGPBjqJUUQxVwf2l0IwFLzJkS4i9AszbyOeH3Mmxec_6mHHhfo1MmcMZ1wkbYCeHXNVJdhwIKqvt85tfl4eux_WcZ2JCMnP6_W_1B89Y5F",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJG_rNrbKHZ0ARI4GciVtenVI",
+            "plus_code": {
+                "compound_code": "JJVJ+75 Batumi",
+                "global_code": "8HH3JJVJ+75"
+            },
+            "rating": 5,
+            "reference": "ChIJG_rNrbKHZ0ARI4GciVtenVI",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8a Kobaladze St, Batumi 6000, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6342329,
+                    "lng": 41.6088627
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.63561012989273,
+                        "lng": 41.61023977989272
+                    },
+                    "southwest": {
+                        "lat": 41.63291047010728,
+                        "lng": 41.60754012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Digital Currency - Crypto Exchange Office",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114196803593807454812\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjvt_tsT4H1ih8tQ75cxeEvmYi5sfCNTx--K0pgX1GLgqP8syTyC0A7d8tihPCQd6X6pPesAXcsdXRWcMHeHKjQEWcKUaLr-O14GaJKMjHSj3njHc1Vra-qk3hrK8ywz4DXQ-usmYooL3rGf4u6fNZTlm9mq-tqmx1yRuI8AVps-nyy",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJxT83U-eFZ0ARRgDaQo3vGqY",
+            "plus_code": {
+                "compound_code": "JJM5+MG Batumi",
+                "global_code": "8HH3JJM5+MG"
+            },
+            "rating": 5,
+            "reference": "ChIJxT83U-eFZ0ARRgDaQo3vGqY",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lech and Maria Kaczynski St, Batumi 6000, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.62836739999999,
+                    "lng": 41.6022215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.62971517989272,
+                        "lng": 41.60357392989273
+                    },
+                    "southwest": {
+                        "lat": 41.62701552010727,
+                        "lng": 41.60087427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "CoinTrans Batumi",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101602200562643652165\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShgmmHSoIHwXa7--E6bubrGXVZRUlMf-ut_kGIjRxx1iO6O4WEmzrOxSjTXxw7ERbMNz7QWBxYd9C5774PeA49-Y3xrcZn7bjTkRGpN-Qjw1ZYtqHe24-Yt7sNxmxcG1umWRuL7jpDNAEWiULADu4jI3nlZzKL6RxFOYENr-DPYPsZHz",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJyxR9Pd-FZ0ARSBqUjo6b9gU",
+            "plus_code": {
+                "compound_code": "JJH2+8V Batumi",
+                "global_code": "8HH3JJH2+8V"
+            },
+            "rating": 5,
+            "reference": "ChIJyxR9Pd-FZ0ARSBqUjo6b9gU",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "19 Luka Asatiani St, Batumi 6000, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6494345,
+                    "lng": 41.6342849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.65075752989272,
+                        "lng": 41.63557802989272
+                    },
+                    "southwest": {
+                        "lat": 41.64805787010727,
+                        "lng": 41.63287837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Conexus Crypto",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115348962177712693411\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShi28aVSVIjWjFlaLk4zBf96WQtm2d9Xb_TbvJ5CNd5oYMXmyZE0rB0PpzB6__oqOIne1utcjCms4ERy8ul2skxW2-KGoYbsKDtR4VnkU7t6B19Fx0hfHypoX6konQY8C8bmTXjS-6FbKEAR9Vrnz2DJ5vsJkbsmBm-56WEiUf_PTSax",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJcyZTYpaHZ0ARzkgdya1wefk",
+            "plus_code": {
+                "compound_code": "JJXM+QP Batumi",
+                "global_code": "8HH3JJXM+QP"
+            },
+            "rating": 5,
+            "reference": "ChIJcyZTYpaHZ0ARzkgdya1wefk",
+            "types": [
+                "cafe",
+                "store",
+                "finance",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "64 Giorgi Mazniashvili St, Batumi, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6469624,
+                    "lng": 41.6425435
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.64832822989271,
+                        "lng": 41.64392962989272
+                    },
+                    "southwest": {
+                        "lat": 41.64562857010727,
+                        "lng": 41.64122997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Crypto Exchange Trustit",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107475826072083716857\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShg1_BIISBF2tLj92OxXiOJp4RpPF0QeSkdx95FgM8YpyRl2_0XlTztMCFv8N1A94ellmHqmvaK5BYz3n_DRk39ztsYMxBwhSnoKSCuzYqCZBldUjdAPbVF6jA9vbpW8tFn534Z-c1mDAy20Y7l7LseyRNl_NpjAPPwkmNayIRY7mtGU",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJjfiprsyHZ0ARTE41-cHD_5M",
+            "plus_code": {
+                "compound_code": "JJWV+Q2 Batumi",
+                "global_code": "8HH3JJWV+Q2"
+            },
+            "rating": 5,
+            "reference": "ChIJjfiprsyHZ0ARTE41-cHD_5M",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4 Marjanishvili St, Batumi 6010, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6494836,
+                    "lng": 41.634997
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.65078142989272,
+                        "lng": 41.63638817989273
+                    },
+                    "southwest": {
+                        "lat": 41.64808177010728,
+                        "lng": 41.63368852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Block Square crypto exchange Batumi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116144593080932400349\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShhDgLZ8m6XiQrF4uUjvreljr0kxKQrswFrJpk-Xd30gxSAJDIV7lwuNb78iHBaMrfxPP37cbQvU7xZoJDJnsYMViS_iSETH9iMUM--BjbiCB_PUV0K0tgwflf65KgptMypWXixlIdd2qIi4HUJbUHzhGHNPk42rDo-cFAhxBoSLIpkN",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJkcFzY9eHZ0ARI7ZVNaCQldk",
+            "plus_code": {
+                "compound_code": "JJXM+QX Batumi",
+                "global_code": "8HH3JJXM+QX"
+            },
+            "rating": 5,
+            "reference": "ChIJkcFzY9eHZ0ARI7ZVNaCQldk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "23 26 May St, Batumi 6010, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6479813,
+                    "lng": 41.6319171
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.64932917989272,
+                        "lng": 41.63326247989272
+                    },
+                    "southwest": {
+                        "lat": 41.64662952010728,
+                        "lng": 41.63056282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Flash Crypto Exchange Service",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105984375487389653170\">ПУНКЕР ПУГЛ</a>"
+                    ],
+                    "photo_reference": "AUacShj9a9xpwJIgqle6Gsw-b7E65z12osgpMkZiKUKqSEJSLG7VyTetBueD91yevOWOxP5-Tp1rz-vaCdiBRkPT3Isp9Bkxczw0fbvuj_5MO-wFsGeIjmt_JNUEGyzZ8i4PxR7kWgGL_KYWZuB9vKKMRTPlqoo7asPDHBYLXywPh6O-Y2ke",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJk6DNjiaHZ0AR35cKhRfT82s",
+            "plus_code": {
+                "compound_code": "JJXJ+5Q Batumi",
+                "global_code": "8HH3JJXJ+5Q"
+            },
+            "rating": 5,
+            "reference": "ChIJk6DNjiaHZ0AR35cKhRfT82s",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 79
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "95 Zurab Gorgiladze St, Batumi, Georgia",
+            "geometry": {
+                "location": {
+                    "lat": 41.6432796,
+                    "lng": 41.6209864
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.64470712989272,
+                        "lng": 41.62229347989272
+                    },
+                    "southwest": {
+                        "lat": 41.64200747010727,
+                        "lng": 41.61959382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tonwex Crypto Service",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101164251672273218502\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjEl-m1Ls8K8YKt0uL7PLxXqGh8HOJmO_6pKykRyro5jMrhJZU8KTxRqZbrzwEMb6EvHtmvw2Yfbr9p4MoFAQxRW7UyEp_aaVxBs7FbW_u81gZ-HFjHxpxMorwc9iJPTHiMypa5Ocwi3bmKj_ZRV4-8SKk1zfSvbg0ev38C-UUB-Kx4",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJj6GEv-OHZ0ARLH2huw2Jxbc",
+            "plus_code": {
+                "compound_code": "JJVC+89 Batumi",
+                "global_code": "8HH3JJVC+89"
+            },
+            "rating": 5,
+            "reference": "ChIJj6GEv-OHZ0ARLH2huw2Jxbc",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        }
+    ],
+    "status": "OK"
+}
